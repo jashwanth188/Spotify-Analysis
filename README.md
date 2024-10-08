@@ -4,7 +4,8 @@
  ## Project Overview
  The project is designed to:- Analyze Spotify dataset for trends and patterns.- Visualize key metrics like popularity, song features, and genre distribution.- Use Python libraries like pandas, matplotlib, and seaborn for data analysis and visualization.
  
- ## Files in the Repository- `SpotifyAnalysis.ipynb`: Jupyter Notebook containing the data analysis and visualizations.- `requirements.txt`: List of Python libraries required to run the notebook.- `data/`: Directory containing the dataset used for the analysis (you should provide a link to the dataset if too large to upload).
+ ## Files in the Repository- `SpotifyAnalysis.ipynb`: 
+ Jupyter Notebook containing the data analysis and visualizations.- `requirements.txt`: List of Python libraries required to run the notebook.- `data/`: Directory containing the dataset used for the analysis (you should provide a link to the dataset if too large to upload).
  ## Installation
  To run this project locally, follow these steps:
  1. Clone the repository:
